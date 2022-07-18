@@ -38,7 +38,7 @@ p{
 	display: none;
 	float:right;
 }
-@media (max-width: 575px){
+@media (max-width: 767px){
 	.page-content{
 		width: 100%;
 		margin-left:  35px auto;
