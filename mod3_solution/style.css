@@ -1,0 +1,50 @@
+
+body{
+	font-family: 'Edu NSW ACT Foundation', cursive;
+}
+#head-nav{
+	background-color: #999999;
+}
+#navbar-brand{
+	font-size: 40px;
+	font-weight: bold;
+	margin-left: -10px
+}
+#page-heading{
+	margin-bottom: 50px;
+}
+.page-content{
+	padding: 10px;
+	margin: 20px auto;
+}
+.par-head{
+	text-align: center;
+    font-size: 50px;
+	font-weight: bold;
+}
+p{
+	font-size: 24px;
+}
+.page-content{
+	background-color: #999999;
+}
+.sr-only{
+	display: none;
+}
+.icon-bar{
+
+}
+.navbar-toggle{
+	display: none;
+	float:right;
+}
+@media (max-width: 575px){
+	.page-content{
+		width: 100%;
+		margin-left:  35px auto;
+		margin-right: 25px auto;
+	}
+	.navbar-toggle{
+		display: inline;
+	}
+}
